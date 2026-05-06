@@ -4,8 +4,8 @@ Software engineer at Ally Financial in New York. Outside work I make small
 things around cities, travel, and language.
 
 I host Couchsurfers regularly and run food walks with them through Flushing
-and Jackson Heights on weekends, and irregularly make and sell Taiwanese
-beef noodles out of my apartment.
+and Jackson Heights on weekends, and occasionally cook Taiwanese beef noodle
+soup for friends, strangers, and whoever ends up at my table.
 
 Right now I'm building [Sanpo](https://trysanpo.com): small-group walks
 through neighborhoods, led by people who actually live there. NYC and
@@ -19,7 +19,3 @@ learning, food in Queens, whatever I'm thinking through.
 
 [Blog](https://tianyi.sh) · [Sanpo](https://trysanpo.com) ·
 [X](https://x.com/tianyinyc) · [LinkedIn](https://www.linkedin.com/in/nlovell1)
-
-## Recent writing
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
